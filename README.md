@@ -53,12 +53,12 @@ com.jsp.SpringSecurity
 
 ## 🛠 Technologies Used
 
-* Java 17+
+* Java 21+
 * Spring Boot
 * Spring Security
 * Spring Data JPA
 * JWT (via `jjwt` library)
-* H2 / MySQL (you can switch as needed)
+* MySQL (you can switch as needed)
 
 ---
 
